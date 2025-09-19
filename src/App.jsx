@@ -1,5 +1,4 @@
 import Produtos from "./pages/produtos"
-
 const App = () => {
 
 
@@ -11,3 +10,4 @@ const App = () => {
   )
 }
 export default App
+
